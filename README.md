@@ -1,15 +1,14 @@
-# kottans-frontend
-# Front-End Course.
+# Front-End Course
 
 ## Navigation
 
 #### General
- 0. [x] Git Basics
+ 0. [x] [Git Basics](#git-basics)
  1. [ ] Linux CLI and Networking
  2. [ ] VCS (hello gitty), GitHub and Collaboration
  
 #### Front-End Basics
- 3. [x] Intro to HTML & CSS
+ 3. [x] [Intro to HTML & CSS](#intro-to-html--css)
  4. [ ] Responsive Web Design
  5. [ ] HTML & CSS Practice
  6. [ ] JavaScript Basics
@@ -25,3 +24,5 @@
 14. [ ] Friends App - real project!
 
 ## Git Basics
+
+## Intro to HTML & CSS
