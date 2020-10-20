@@ -1,5 +1,4 @@
-# kottans-frontend
-# Front-End Course.
+# Front-End Course
 
 ## Navigation
 
