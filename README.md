@@ -9,7 +9,7 @@
  2. [ ] VCS (hello gitty), GitHub and Collaboration
  
 #### Front-End Basics
- 3. [x] [Intro to HTML & CSS](#intro-to-html-&-css)
+ 3. [x] [Intro to HTML & CSS](#intro-to-html--css)
  4. [ ] Responsive Web Design
  5. [ ] HTML & CSS Practice
  6. [ ] JavaScript Basics
