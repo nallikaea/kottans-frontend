@@ -43,6 +43,6 @@
   - git fetch - download;
   - git pull - git fetch + git merge;
   - git push - share my work;
-  - and ohter;
+  - and other;
 
 ## Intro to HTML & CSS
