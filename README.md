@@ -4,7 +4,7 @@
 ## Navigation
 
 #### General
- 0. [x] Git Basics
+ 0. [x] [Git Basics](#git-basics)
  1. [ ] Linux CLI and Networking
  2. [ ] VCS (hello gitty), GitHub and Collaboration
  
