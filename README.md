@@ -44,5 +44,9 @@
   - git pull - git fetch + git merge;
   - git push - share my work;
   - and other;
+  
+- Repository "kottans-frontend" and README.md file with my impressions about learned materials created.
+
+- Pull-request to Kottans/mock-repo with my greeting and cat sended.
 
 ## Intro to HTML & CSS
