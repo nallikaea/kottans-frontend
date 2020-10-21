@@ -24,8 +24,8 @@
 14. [ ] Friends App - real project!
 
 ## Git Basics
-
-- Сourse **Version Control with Git** - FINISHED.
+:smile:
+- Сourse **Version Control with Git** - FINISHED.:star:
  This is a very good course for beginners. The material is presented in an accessible and high quality. He helped me quickly understand the version-control system GIT and use the basic commands such as for example:
  
   - git init and git clone - for start the project;
@@ -37,7 +37,7 @@
   - git revert, git reset - for edit/delete commits;
   - etc.
   
-- **Introduction Sequence, Push & Pull** (learngitbranching.js.org) - COMPLITED.
+- **Introduction Sequence, Push & Pull** (learngitbranching.js.org) - COMPLITED.:star:
  This resource gave me additional knowledge about working with branches and also taught me how to work with remote repositories. Commands, I learned here:
   - git rebase - type of merging;
   - git fetch - download;
@@ -45,13 +45,13 @@
   - git push - share my work;
   - and other;
   
-- Repository "kottans-frontend" and README.md file with my impressions about learned materials created.
+- Repository "kottans-frontend" and README.md file with my impressions about learned materials created.:feet:
 
-- Pull-request to Kottans/mock-repo with my greeting and cat sended.
+- Pull-request to Kottans/mock-repo with my greeting and cat sended.:love_letter:
 
 ## Linux CLI, and HTTP
-
-- Сourse **Linux Survival (4 modules)** - FINISHED.
+:smile:
+- Сourse **Linux Survival (4 modules)** - FINISHED.:star:
  This course taught me how to use CLI. I had an experience with command line it the past, but repetition was very useful for me. I want to write some commands here:
   - ls - list of content in directory;
   - more - properties;
@@ -71,6 +71,10 @@
   - ps aux - show active procesess;
   - grep <text> - find some text in file;
   - kill, kill -9 <idp> - kill some process by ID;
+ 
+ [This](https://github.com/nallikaea/kottans-frontend/blob/main/task_linux_cli) is folder with screenshots I made during course pass. :blush:
+ 
+ ![Screencli](https://github.com/nallikaea/kottans-frontend/blob/main/task_linux_cli/conclusionscli.png)
  
 
 
