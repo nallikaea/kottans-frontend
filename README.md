@@ -4,7 +4,7 @@
 
 #### General
  0. [x] [Git Basics](#git-basics)
- 1. [ ] Linux CLI and Networking
+ 1. [x] [Linux CLI, and HTTP](#linux-cli-and-http)
  2. [ ] VCS (hello gitty), GitHub and Collaboration
  
 #### Front-End Basics
@@ -48,5 +48,30 @@
 - Repository "kottans-frontend" and README.md file with my impressions about learned materials created.
 
 - Pull-request to Kottans/mock-repo with my greeting and cat sended.
+
+## Linux CLI, and HTTP
+
+- Сourse **Linux Survival (4 modules)** - FINISHED.
+ This course taught me how to use CLI. I had an experience with command line it the past, but repetition was very useful for me. I want to write some commands here:
+  - ls - list of content in directory;
+  - more - properties;
+  - mkdir <name> - make directory;
+  - mv <from> <to> - move, rename;
+  - cd <where> (cd ..) - chenge directory (up one directory);
+  - pwd - print working directory;
+  - cp <name> <name> - copy;
+  - rm <name>, rmdir <name> - remove file and directoty. To remove directory tree -r need to be added;
+  - security atributes: r(read), w(write), x(execute); Users can be owner, group or other;
+  - chmod (example: chmod ugo-rwx) - change security mode;
+  - man is for manual;
+  - find ~ -name "name*"
+  - cat file1 file2 > file;
+  - lpr, lpq, lprm -commands for printer;
+  - df - free disk space;
+  - ps aux - show active procesess;
+  - grep <text> - find some text in file;
+  - kill, kill -9 <idp> - kill some process by ID;
+ 
+
 
 ## Intro to HTML & CSS
