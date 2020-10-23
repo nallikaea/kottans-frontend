@@ -5,7 +5,7 @@
 #### General
  0. [x] [Git Basics](#git-basics)
  1. [x] [Linux CLI, and HTTP](#linux-cli-and-http)
- 2. [x] [GitHub and Collaboration](#git-for-team-collaboration)
+ 2. [x] [GitHub and Collaboration](#git-collaboration)
  
 #### Front-End Basics
  3. [x] [Intro to HTML & CSS](#intro-to-html--css)
@@ -91,7 +91,7 @@
   - DELETE: delete an existing resource.
   - OPTIONS: used to retrieve the server capabilities.
   
-## Git for Team Collaboration
+## Git Collaboration
 
 - Сourse **GitHub & Collaboration** - FINISHED.:star:
  On this course I learned how to work on the projects witch contains in remote repositorie on the example of a GitHub and repeat comands, which I learned on **Introduction Sequence, Push & Pull** (learngitbranching.js.org). Also I leadned how to fork, how to review existing work, how to use filters of commits and much more other things.
@@ -103,6 +103,10 @@
   - create a new pull request and choose the branch that has your new commits.
  
  ![GfTC](https://github.com/nallikaea/kottans-frontend/blob/main/task_git_collaboration/image_2020-10-23_16-11-58.png)
- 
 
+- **Ramping Up, Moving Work Around, To Origin and Beyond** (learngitbranching.js.org) - COMPLITED.:star:
+
+ ![lb1](https://github.com/nallikaea/kottans-frontend/blob/main/task_git_collaboration/image_2020-10-23_17-38-10.png)
+ ![lb2](https://github.com/nallikaea/kottans-frontend/blob/main/task_git_collaboration/image_2020-10-23_17-55-24.png)
+ 
 ## Intro to HTML & CSS
