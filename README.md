@@ -76,6 +76,19 @@
  
  ![Screencli](https://github.com/nallikaea/kottans-frontend/blob/main/task_linux_cli/conclusionscli.png)
  
+ - Article **HTTP: The Protocol Every Web Developer Must Know** - READED.:star:
+   
+  This is very fullness article about how HTTP works. It tells about URL, status codes and request/response headers, connection handling, identification, authentication and caching. I learned something about it during my study at the university, and this article helped me to remember.
+    
+   ![URL](https://cdn.tutsplus.com/net/authors/jeremymcpeak/http1-url-structure.png)
+   
+   Request verbs, which is I definitely will use:
+    - GET: fetch an existing resource.
+    - POST: create a new resource. 
+    - PUT: update an existing resource. 
+    - DELETE: delete an existing resource.
+    - OPTIONS: used to retrieve the server capabilities.
+ 
 
 
 ## Intro to HTML & CSS
