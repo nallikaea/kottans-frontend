@@ -113,4 +113,4 @@
   
   ![css](https://github.com/nallikaea/kottans-frontend/blob/main/task_html_css_intro/2020-10-28%20(1).png)
 
-  These three courses provide a good foundation to write your first high-level interactive website. I will definitely use it all.
+  These three courses provide a good foundation to write your first high-level interactive website. I will definitely use it all. 
