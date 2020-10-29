@@ -114,16 +114,20 @@
   :smile:
   - Сourse **Intro to HTML & CSS (Eng)** - FINISHED.:star:
 
-  This was simple intro course for beginners with good visualizations about main concepts of HTML and CSS.
+  This was simple intro course for beginners with good visualizations about main concepts of HTML and CSS. Here I learned about basic HTML-tags (< body >, < div >, < p >..) and basic CSS how to change font, color, text style, etc.
 
   ![html](https://github.com/nallikaea/kottans-frontend/blob/main/task_html_css_intro/2020-10-28.png)
 
   - Сourse **Learn HTML(Eng)** (Codeacademy) - FINISHED.:star:
-
+ 
   This is a more compleх HTML-course that covers many rules for writing code elements. By taking this course, you can write a good informational website.
-
+  
+   ![semhtml](https://github.com/nallikaea/kottans-frontend/blob/main/screens/img_sem_elements.gif)
+   
+  Here I find out how to make tables and forms, and learn about Semantic HTML witch clearly defines its content: < form >, < table >, and < article >... 
+  
   ![html2](https://github.com/nallikaea/kottans-frontend/blob/main/task_html_css_intro/2020-10-28%20(2).png)
-
+  
   - Сourse **Learn CSS(Eng)** (Codeacademy) - FINISHED.:star:
 
   This Cascading Style Sheet course is very good and long. He tells not only how to add colors and fonts to your HTML-code, but also how to build a real functional layout and how to add interactive elements to website using only CSS, without any Javascript code. Amazing.
