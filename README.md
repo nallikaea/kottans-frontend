@@ -9,7 +9,7 @@
 
 #### Front-End Basics
  3. [x] [Intro to HTML & CSS](#intro-to-html--css)
- 4. [ ] Responsive Web Design
+ 4. [x] [Responsive Web Design](#responsive-web-design)
  5. [ ] HTML & CSS Practice
  6. [ ] JavaScript Basics
  7. [ ] Document Object Model - practice
@@ -135,4 +135,61 @@
   ![css](https://github.com/nallikaea/kottans-frontend/blob/main/task_html_css_intro/2020-10-28%20(1).png)
 
   These three courses provide a good foundation to write your first high-level interactive website. I will definitely use it all.
+  
+## Responsive Web Design
+  
+  😛
  
+  - Сourse **Responsive Web Design Fundamentals** - FINISHED.:star:
+  
+  The main concepts of responsive web design I learned here:
+   - web-site autoscale to screensize < meta name="viewport" content="width=device-width, initial-scale=1.0" >;
+   - start design your site from the smallest viewport;
+   - prefer relative units for widths for elements;
+   - breakpoints;
+   - flexbox and grid layouts;
+   - tap-targets size to 48x48 px minimum;
+   
+  Patterns for responsive design:
+   - Column Drop;
+   - Mostly Fluid;
+   - Layout Shifter;
+   - Off Canvas.
+   
+  ![rwd](https://github.com/nallikaea/kottans-frontend/blob/main/task_responsive_web_design/2020-10-30%20(1).png)
+  
+  - **Flexbox Froggy Game**  - FINISHED.:star:
+ 
+  _The main comands of flexbox design:_
+   - justify-content - aligns elements horizontally:
+     - flex-start: on the left side of the container.
+     - flex-end: on the right side.
+     - center: centered.
+     - space-between: items are displayed with equal spacing between them.
+     - space-around: items are displayed with equal padding around them. 
+   - align-items (align-self) - aligns items vertically:
+     - flex-start: items are aligned to the top of the container.
+     - flex-end: bottom-aligned.
+     - center: vertically centered.
+     - baseline: drawn at the baseline of the container.
+     - stretch: stretch to fill the container.
+   - flex-direction - the direction in which the elements will be positioned in the container:
+     - row: elements are laid out in the direction of the text.
+     - row-reverse: displayed in reverse order to the direction of the text.
+     - column: from top to bottom.
+     - column-reverse: from bottom to top.
+   - order can be positive or negative; default 0;
+   - flex-wrap:
+     - nowrap: elements are automatically sized to fit in one row.
+     - wrap: items are automatically wrapped to a new line.
+     - wrap-reverse: items automatically wrapped to a new line, but the lines are in reverse order.
+   - flex-direction + flex-wrap = flex-flow.
+   - align-content specifies how multiple rows should be separated from each other:
+     - flex-start: rows are grouped at the top of the container.
+     - flex-end: at the bottom.
+     - center: vertically centered.
+     - space-between: rows are displayed with equal distances between them.
+     - space-around: with equal spacing around them.
+     - stretch: rows are stretched to fill the container evenly.
+    
+   ![frog](https://github.com/nallikaea/kottans-frontend/blob/main/task_responsive_web_design/2020-10-30.png)
