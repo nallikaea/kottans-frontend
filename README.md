@@ -10,7 +10,7 @@
 #### Front-End Basics
  3. [x] [Intro to HTML & CSS](#intro-to-html--css)
  4. [x] [Responsive Web Design](#responsive-web-design)
- 5. [ ] HTML & CSS Practice
+ 5. [x] [HTML & CSS Practice](#hooli-style-popup)
  6. [ ] JavaScript Basics
  7. [ ] Document Object Model - practice
 
@@ -193,3 +193,13 @@
      - stretch: rows are stretched to fill the container evenly.
     
    ![frog](https://github.com/nallikaea/kottans-frontend/blob/main/task_responsive_web_design/2020-10-30.png)
+   
+   ## Hooli-style Popup
+   
+   This is my soluchion of this task. Hopy U like 😊
+
+  [Demo](https://nallikaea.github.io/html-css-popup/) 
+  
+  [Code base](https://github.com/nallikaea/html-css-popup)
+
+
