@@ -196,7 +196,7 @@
    
    ## Hooli-style Popup
    
-   This is my soluchion of this task. Hopy U like 😊
+   This is my soluchion of this task. Hope U like 😊
 
   [Demo](https://nallikaea.github.io/html-css-popup/) 
   
