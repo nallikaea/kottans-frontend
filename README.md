@@ -11,8 +11,8 @@
  3. [x] [Intro to HTML & CSS](#intro-to-html--css)
  4. [x] [Responsive Web Design](#responsive-web-design)
  5. [x] [HTML & CSS Practice](#hooli-style-popup)
- 6. [ ] JavaScript Basics
- 7. [ ] Document Object Model - practice
+ 6. [x] [JavaScript Basics](#js-basics)
+ 7. [x] [Document Object Model](#dom)
 
 #### Advanced Topics
  8. [ ] Building a Tiny JS World (pre-OOP) - practice
@@ -201,5 +201,28 @@
   [Demo](https://nallikaea.github.io/html-css-popup/) 
   
   [Code base](https://github.com/nallikaea/html-css-popup)
+  
+  ## JS Basics
+  
+   :smile:
+  - Сourse **Intro to JavaScript** - FINISHED.:star:
+
+  This was basic course for beginners about main concepts of JS. Here I learned what is JavaScript, what data types it uses, how to set variables and arrays. Also now I can use loops, conditions and functions. I made first step in JS OOP learned about objects and methods. 😎
+
+  ![js](https://github.com/nallikaea/kottans-frontend/blob/main/task_js_basics/2020-12-09.png)
+  
+  😛
+ 
+  - **FreeCodeCamp exercises** - FINISHED.:star:
+  
+  This was difficult to complite, because here is A LOT of exersises, but now I fell me comfortable in JS use! ✨✨✨
+  
+  ## DOM
+  
+  This is my solution 🍄🍄🍄
+
+  [Demo](https://nallikaea.github.io/dom/) 
+  
+  [Code base](https://github.com/nallikaea/dom)
 
 
